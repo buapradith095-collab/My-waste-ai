@@ -1,5 +1,5 @@
 import streamlit as st
-import google.generativeai as genai
+import google-generativeai as genai
 from PIL import Image
 
 # ใส่ API Key ที่ได้จาก Google AI Studio ตรงนี้
